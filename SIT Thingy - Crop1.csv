@@ -1,0 +1,81 @@
+Season,Weather,Temperature (°C),Humidity (%),Recommended Crops
+Winter,Clear,15,60,Wheat, Mustard
+Winter,Cloudy,18,55,Wheat, Mustard
+Winter,Partly Cloudy,20,50,Barley, Chickpea
+Winter,Foggy,12,70,Wheat, Mustard
+Winter,Rainy,10,75,Wheat, Mustard
+Winter,Clear,22,40,Barley, Chickpea
+Winter,Cloudy,17,60,Wheat, Mustard
+Winter,Partly Cloudy,19,55,Barley, Chickpea
+Winter,Foggy,14,65,Wheat, Mustard
+Winter,Rainy,11,70,Wheat, Mustard
+Summer,Clear,30,70,Rice, Maize
+Summer,Cloudy,28,75,Rice, Maize
+Summer,Partly Cloudy,32,65,Cotton, Soybean
+Summer,Hot and Dry,35,50,Cotton, Soybean
+Summer,Rainy,27,80,Rice, Maize
+Summer,Clear,29,70,Cotton, Soybean
+Summer,Cloudy,26,75,Rice, Maize
+Summer,Partly Cloudy,31,65,Cotton, Soybean
+Summer,Hot and Dry,34,50,Cotton, Soybean
+Summer,Rainy,25,80,Rice, Maize
+Monsoon,Rainy,28,85,Cucumber, Watermelon
+Monsoon,Windy,26,90,Cucumber, Watermelon
+Monsoon,Cloudy,27,85,Bitter Gourd, Green Beans
+Monsoon,Rainy,28,88,Cucumber, Watermelon
+Monsoon,Windy,25,92,Cucumber, Bitter Gourd
+Monsoon,Cloudy,26,87,Bitter Gourd, Green Beans
+Monsoon,Rainy,27,85,Cucumber, Watermelon
+Monsoon,Windy,24,90,Cucumber, Bitter Gourd
+Monsoon,Cloudy,25,85,Bitter Gourd, Green Beans
+Monsoon,Rainy,26,88,Cucumber, Watermelon
+Winter,Clear,14,65,Barley, Chickpea
+Winter,Cloudy,18,60,Wheat, Mustard
+Winter,Partly Cloudy,20,55,Barley, Chickpea
+Winter,Foggy,13,70,Wheat, Mustard
+Winter,Rainy,11,75,Wheat, Mustard
+Winter,Clear,21,45,Barley, Chickpea
+Winter,Cloudy,16,60,Wheat, Mustard
+Winter,Partly Cloudy,18,55,Barley, Chickpea
+Winter,Foggy,15,65,Wheat, Mustard
+Winter,Rainy,12,70,Wheat, Mustard
+Summer,Clear,31,70,Rice, Maize
+Summer,Cloudy,29,75,Rice, Maize
+Monsoon,Cloudy,26,85,Tomato, Onion
+Monsoon,Rainy,28,88,Cucumber, Watermelon
+Monsoon,Windy,25,92,Cucumber, Bitter Gourd
+Monsoon,Cloudy,26,87,Bitter Gourd, Green Beans
+Monsoon,Rainy,27,85,Cucumber, Watermelon
+Monsoon,Windy,24,90,Cucumber, Bitter Gourd
+Monsoon,Cloudy,25,85,Bitter Gourd, Green Beans
+Monsoon,Rainy,26,88,Cucumber, Watermelon
+Winter,Clear,14,65,Barley, Chickpea
+Winter,Cloudy,18,60,Wheat, Mustard
+Winter,Partly Cloudy,20,55,Carrot, Potato
+Winter,Foggy,13,70,Wheat, Mustard
+Winter,Rainy,11,75,Carrot, Potato
+Winter,Clear,21,45,Barley, Chickpea
+Winter,Cloudy,16,60,Wheat, Mustard
+Winter,Partly Cloudy,18,55,Carrot, Onion
+Winter,Foggy,15,65,Wheat, Mustard
+Winter,Rainy,12,70,Carrot, Onion
+Summer,Clear,31,70,Rice, Maize
+Summer,Cloudy,29,75,Rice, Maize
+Summer,Partly Cloudy,32,65,Tomato, Onion
+Summer,Hot and Dry,35,50,Cotton, Soybean
+Summer,Rainy,27,80,Tomato, Onion
+Summer,Clear,29,70,Cotton, Soybean
+Summer,Cloudy,26,75,Tomato, Onion
+Summer,Partly Cloudy,31,65,Cotton, Soybean
+Summer,Hot and Dry,34,50,Cotton, Soybean
+Summer,Rainy,25,80,Tomato, Onion
+Monsoon,Rainy,28,85,Cucumber, Watermelon
+Monsoon,Windy,26,90,Cucumber, Bitter Gourd
+Monsoon,Cloudy,27,85,Bitter Gourd, Green Beans
+Monsoon,Rainy,28,88,Cucumber, Watermelon
+Monsoon,Windy,25,92,Cucumber, Bitter Gourd
+Monsoon,Cloudy,26,87,Chillies, Green Beans
+Monsoon,Rainy,27,85,Cucumber, Watermelon
+Monsoon,Windy,24,90,Cucumber, Bitter Gourd
+Monsoon,Cloudy,25,85,Chillies, Green Beans
+Monsoon,Rainy,26,88,Cucumber, Watermelon

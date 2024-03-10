@@ -1,0 +1,27 @@
+season,weather,soil_type,temperature_max,temperature_min,humidity,precipitation,sunlight,crop_type,crop_variety,growth_cycle,water_requirement,nutrient_requirement,pests,diseases,irrigation_type,market_demand,profitability
+summer,sunny,loam,35,25,65,50,10,rice,Basmati,medium,high,high,Nilaparvata lugens,Bacterial blight,flood,high,medium
+summer,sunny,sandy,37,28,60,30,11,millet,Pearl millet,long,medium,medium,Blast,Downy mildew,rainfed,medium,low
+summer,sunny,clay,32,20,70,45,9,cotton,Desi cotton,medium,high,high,Bollworm,Leaf curl virus,drip,high,high
+summer,cloudy,loam,30,22,75,40,8,soybean,JS 9560,short,medium,high,Aphids,Asian soybean rust,sprinkler,medium,medium
+summer,cloudy,sandy,34,24,55,20,9,groundnut,Valencia,medium,high,high,Aphids,Early leaf spot,flood,medium,high
+monsoon,rainy,loam,28,22,80,100,7,rice,BPT 5204,long,high,high,Stem borers,Sheath blight,flood,high,medium
+monsoon,rainy,sandy,29,24,75,90,6,turmeric,Allepey,long,medium,medium,Rhizome rot,Leaf blotch,rainfed,low,high
+monsoon,rainy,clay,26,21,85,110,7,jute,Tossa,medium,high,high,Jute caterpillar,Brown spot,flood,medium,medium
+monsoon,cloudy,loam,27,23,82,105,6,sugarcane,Co 86032,long,high,high,Scale insects,Red rot,sprinkler,high,high
+monsoon,cloudy,sandy,30,25,78,95,6,ragi,Indaf-15,long,medium,medium,Head smut,Leaf blast,rainfed,low,low
+autumn,sunny,loam,28,18,70,40,8,wheat,HD 2967,medium,medium,medium,Rust,Loose smut,flood,high,medium
+autumn,sunny,sandy,30,20,65,30,9,barley,Golden Promise,short,low,medium,Leafhoppers,Scald,rainfed,low,low
+autumn,sunny,clay,26,16,75,35,7,peas,Green peas,short,low,low,Aphids,Downy mildew,sprinkler,medium,medium
+autumn,cloudy,loam,27,17,80,50,6,chickpea,Kabuli,medium,medium,medium,Pod borer,Ascochyta blight,drip,medium,medium
+autumn,cloudy,sandy,29,19,75,40,7,groundnut,Virginia,medium,high,high,Aphids,Early leaf spot,flood,medium,high
+winter,sunny,loam,22,10,60,20,7,wheat,Sharbati,medium,low,medium,Rust,Loose smut,flood,high,high
+winter,sunny,sandy,24,12,55,15,8,barley,Two-Row,short,low,medium,Leafhoppers,Scald,rainfed,low,low
+winter,sunny,clay,20,8,65,25,6,peas,Yellow peas,short,low,low,Aphids,Downy mildew,sprinkler,medium,medium
+winter,cloudy,loam,21,9,70,30,5,chickpea,Desi,medium,medium,medium,Pod borer,Ascochyta blight,drip,high,medium
+winter,cloudy,sandy,23,11,65,25,6,linseed,Gold,short,low,medium,Rust,Phoma blight,rainfed,low,medium
+winter,cloudy,sandy,22,9,62,28,5,mustard,Pusa Bold,medium,low,medium,Aphids,White rust,sprinkler,high,medium
+spring,sunny,loam,28,15,60,25,9,sorghum,CS 354,medium,medium,medium,Aphids,Charcoal rot,rainfed,medium,low
+spring,sunny,sandy,30,18,55,20,10,sesame,Tilottama,short,low,low,Leafhoppers,Phoma blight,sprinkler,low,low
+spring,sunny,clay,25,12,65,30,8,peanuts,Java,short,medium,high,Leaf miners,Early leaf spot,flood,high,high
+spring,cloudy,loam,26,14,70,35,7,pulses,Black gram,short,low,low,Aphids,Pod borer,rainfed,low,low
+spring,cloudy,sandy,28,16,60,25,9,sugarcane,Co 86032,long,high,high,Scale insects,Red rot,sprinkler,high,high
